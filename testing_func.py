@@ -14,3 +14,7 @@ def test_method2():
 def test_method3():
     txt = "hello"
     assert "h" in txt
+
+
+def test_method4():
+    assert func(4) == 6
