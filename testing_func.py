@@ -17,4 +17,4 @@ def test_method3():
 
 
 def test_method4():
-    assert func(4) == 6
+    assert func(4) == 5
